@@ -1,5 +1,7 @@
 # CertLocker — storage and installation
 
+简体中文：[certlocker.zh-CN.md](certlocker.zh-CN.md)
+
 CertLocker is the ACME client and certificate manager. This file covers retrieval, preservation, and installation of the standalone certificate and the landmark-relative certificate, and the TLS handshake probe performed by CertLocker's application Trust. Issuance, the staging directory, and the profile catalogue are in the [TrustAsia report](trust-asia.md). The repository index is the [README](README.md).
 
 ![CertLocker](images/certlocker-logo.svg)

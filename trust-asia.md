@@ -1,5 +1,7 @@
 # TrustAsia — ACME issuance of standalone Merkle Tree Certificates
 
+简体中文：[trust-asia.zh-CN.md](trust-asia.zh-CN.md)
+
 TrustAsia operates the staging certification authority. This file is the issuance report. Storage, byte preservation, and installation are in the [CertLocker report](certlocker.md). The repository index is the [README](README.md).
 
 ![TrustAsia](images/trustasia-logo.svg)

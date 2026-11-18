@@ -1,5 +1,7 @@
 # Standalone MTC ACME interoperability
 
+简体中文：[README.zh-CN.md](README.zh-CN.md)
+
 Implementation evidence for ACME issuance and retrieval of standalone Merkle Tree Certificates, and for storage and installation of the standalone certificate and the later landmark-relative certificate.
 
 This repository is the joint note from [TrustAsia](trust-asia.md) (issuance) and [CertLocker](certlocker.md) (storage and installation).

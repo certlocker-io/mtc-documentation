@@ -1,6 +1,8 @@
 # Trust — creating an MTC order
 
-Trust is the CertLocker application. This file is the operator path through that application to create a Merkle Tree Certificate order. Issuance, the staging directory, and the profile catalogue are in the [TrustAsia report](trust-asia.md). Storage, the two certificate records, and installation are in the [CertLocker report](certlocker.md). The repository index is the [README](README.md).
+简体中文：[trust.zh-CN.md](trust.zh-CN.md)
+
+Trust is the CertLocker application. Users can register for free at [trust.certlocker.io](https://trust.certlocker.io). This file is the operator path through that application to create a Merkle Tree Certificate order. Issuance, the staging directory, and the profile catalogue are in the [TrustAsia report](trust-asia.md). Storage, the two certificate records, and installation are in the [CertLocker report](certlocker.md). The repository index is the [README](README.md).
 
 An MTC order is an ordinary ACME workflow whose directory profile names an MTC product. Trust does not have a separate MTC screen. The order is created from **ACME → Outbound orders**.
 
